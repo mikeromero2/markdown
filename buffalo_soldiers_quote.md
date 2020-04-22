@@ -64,9 +64,9 @@ To remain on the free tier of hosting and avoid an extra monthly fee of $45, I c
 
 
 
-# Total Package plan (includes everything above)
+# Total Package price (includes everything above)
 
-### $7.00 / mo / ch
+### $7.00 / mo / ch (rounded down)
 ### $2,900 development fee
 
 
