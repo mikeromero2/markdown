@@ -21,7 +21,10 @@ CMS service that supports enough roles cost $400 or more but still lack the exac
 
 
 # #2 - Custom Backend for chapter owners / admins:
-Includes: customization of themes and templates for each chapter, On-Site login / registration, centralized admin panel and chapter settings  (set accounts to send payments to, membership dues, Location to be found on the chapter map), 
+Includes: 
+- customization of themes and templates for each chapter, 
+- On-Site login / registration, 
+- centralized admin panel and chapter settings  (set accounts to send payments to, membership dues, Location to be found - on the chapter map), 
 
 ### Solution used: 
 A custom backend hosted on AWS servers (Amazon Web Systems) or Google Cloud Servers that will handle all the chapter functionality that isn't handled by the CMS.
@@ -35,7 +38,12 @@ monthly cost includes hosting fees for the different services used (serverless f
 
 # #3 - User functionality:
 This will allow users to register, login and have the following functionality on the site:
-post comments, Rsvp to events, sign up for chapter memberships, Save credit card information, make payments through their user account, view messages and notifications.
+- post comments, 
+- Rsvp to events, 
+- sign up for chapter memberships, 
+- Save credit card information, 
+- make payments through their user account, 
+- view messages and notifications.
 
 This will also add functionality for chapter administrators to get insights for events and memberships. They will be able to view all their current Chapter members + who has paid and have an organized list of exactly who has RSVP'd and paid for events. Without this functionality, any such information about memberships and user activity would have to be manually tracked.
 
