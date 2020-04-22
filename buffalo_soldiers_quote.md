@@ -16,7 +16,7 @@ $2.50 / month per chapter + $700 development fee
 monthly cost includes hosting for the self hosted CMS and all that entails
 
 ### Alternative solutions:
-CMS service that supports enough roles cost $400 or more but still lack the exact functionality that we want to keep chapters seperated
+CMS service that supports enough roles cost $400 /mo or more but still lack the exact functionality that we want to keep chapters seperated
 
 
 
