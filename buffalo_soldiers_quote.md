@@ -1,10 +1,10 @@
 
 # Buffalo Soldiers website V.1.2 Quote:
-### broken down by functionality
+##### broken down by functionality
 
 
 
-# Content management system:
+# #1 - Content management system:
 Allows content creators to be assigned to specific chapters to create and edit events, news posts and edit the about and landing pages and any other content areas that you want to be editable.
 
 ### Solution used: 
@@ -20,7 +20,7 @@ CMS service that supports enough roles cost $400 or more but still lack the exac
 
 
 
-# Custom Backend for chapter owners / admins:
+# #2 - Custom Backend for chapter owners / admins:
 Includes: customization of themes and templates for each chapter, On-Site login / registration, centralized admin panel and chapter settings  (set accounts to send payments to, membership dues, Location to be found on the chapter map), 
 
 ### Solution used: 
@@ -33,7 +33,7 @@ monthly cost includes hosting fees for the different services used (serverless f
 
 
 
-# User functionality:
+# #3 - User functionality:
 This will allow users to register, login and have the following functionality on the site:
 post comments, Rsvp to events, sign up for chapter memberships, Save credit card information, make payments through their user account, view messages and notifications.
 
@@ -48,7 +48,7 @@ $2.00 / ch / month  + $1,100 developmentu fee
 monthly cost includes hosting fees for the different services used (serverless functions, serverless databases, authentication ect...)
 
 
-# Support & maintenance: 
+# #4 - Support & maintenance: 
 includes management and maintenance of all the services used, security updates and e-mail support for chapter administrators.
 
 ### cost: 
@@ -56,7 +56,7 @@ $1.50 / ch / month
 
 
 
-# Free site hosting on Netlify:
+# #5 - Free site hosting on Netlify:
 To remain on the free tier of hosting and avoid an extra monthly fee of $45, I can optimize the website to use smart caching, client-side routing, server-side pre-rendering and other techniques to reduce bandwidth to a fraction of what it would be. I will also have intercept and modify the build process so that chapter administrators won't cause site rebuilds from updating to exceed the free tier usage. (https://www.netlify.com/pricing/)
 
 ### cost:
@@ -64,7 +64,7 @@ To remain on the free tier of hosting and avoid an extra monthly fee of $45, I c
 
 
 
-# Package plan (includes everything above)
+# Total Package plan (includes everything above)
 
 ### $7.00 / mo / ch
 ### $2,900 development fee
