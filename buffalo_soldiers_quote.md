@@ -1,3 +1,9 @@
+
+# Buffalo Soldiers website V.1.2 Quote:
+### broken down by functionality
+
+
+
 # Content management system:
 Allows content creators to be assigned to specific chapters to create and edit events, news posts and edit the about and landing pages and any other content areas that you want to be editable.
 
