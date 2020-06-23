@@ -1,11 +1,11 @@
 
-# Buffalo Soldiers Web App V.1.2
+# Buffalo Soldiers Web App (V.1.2)
 ##  Development Quote:
-
-# Total price (Features described below)
 
 ### $7.00 / mo / ch (rounded down)
 ### $2,900 development fee
+
+---
 
 # Application Features:
 ## #1 - Content management system:
