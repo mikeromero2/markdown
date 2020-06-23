@@ -1,11 +1,15 @@
 
-# Buffalo Soldiers website V.1.2 Quote:
-##### broken down by functionality
+# Buffalo Soldiers Web App V.1.2
+##  Development Quote:
 
+# Total price (Features described below)
 
+### $7.00 / mo / ch (rounded down)
+### $2,900 development fee
 
-# #1 - Content management system:
-Allows content creators to be assigned to specific chapters to create and edit events, news posts and edit the about and landing pages and any other content areas that you want to be editable.
+# Application Features:
+## #1 - Content management system:
+Allows content creators (Chapter admins) to create and edit events, news posts and the 'about' and landing pages and any other content areas that you want to be editable.
 
 ### Solution used: 
 A self hosted instance of the open source CMS, 'Strapi' with a custom integration to allow content to be partitioned and separated by chapter.
@@ -13,21 +17,15 @@ A self hosted instance of the open source CMS, 'Strapi' with a custom integratio
 ### Cost:
 $2.50 / month per chapter + $700 development fee
 
-monthly cost includes hosting for the self hosted CMS and all that entails
 
-### Alternative solutions:
-CMS service that supports enough roles cost $400 /mo or more but still lack the exact functionality that we want to keep chapters seperated
-
-
-
-# #2 - Custom Backend for chapter owners / admins:
+# #2 - Custom Back-end for chapter owners / admins:
 Includes: 
 - customization of themes and templates for each chapter, 
 - On-Site login / registration, 
 - centralized admin panel and chapter settings  (set accounts to send payments to, membership dues, Location to be found - on the chapter map), 
 
 ### Solution used: 
-A custom backend hosted on AWS servers (Amazon Web Systems) or Google Cloud Servers that will handle all the chapter functionality that isn't handled by the CMS.
+A custom back-end hosted on AWS servers (Amazon Web Systems) that will handle all the chapter functionality that isn't handled by the CMS.
 
 ### cost: 
 $1.50 / ch / month  + $900 development fee
@@ -37,10 +35,10 @@ monthly cost includes hosting fees for the different services used (serverless f
 
 
 # #3 - User functionality:
-This will allow users to register, login and have the following functionality on the site:
+Provides functionality for users to register, login and have the following functionality on the site:
 - post comments, 
 - Rsvp to events, 
-- sign up for chapter memberships, 
+- register / pay for chapter memberships, 
 - Save credit card information, 
 - make payments through their user account, 
 - view messages and notifications.
@@ -65,17 +63,13 @@ $1.50 / ch / month
 
 
 # #5 - Free site hosting on Netlify:
-To remain on the free tier of hosting and avoid an extra monthly fee of $45, I can optimize the website to use smart caching, client-side routing, server-side pre-rendering and other techniques to reduce bandwidth to a fraction of what it would be. I will also have intercept and modify the build process so that chapter administrators won't cause site rebuilds from updating to exceed the free tier usage. (https://www.netlify.com/pricing/)
+To remain on the free tier of hosting and avoid an extra monthly fee of $45 / month, I can optimize the front-end by implementing smart caching, client-side routing, server-side pre-rendering and other techniques to reduce bandwidth to a fraction of what it would be. I will also modify the build process so that chapter administrators won't exceed the free tier usage for site rebuilds. (https://www.netlify.com/pricing/)
 
 ### cost:
  $200 development fee
 
 
 
-# Total Package price (includes everything above)
-
-### $7.00 / mo / ch (rounded down)
-### $2,900 development fee
 
 
 
