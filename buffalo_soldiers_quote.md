@@ -2,7 +2,7 @@
 # Buffalo Soldiers Web App (V.1.2)
 ##  Development Quote:
 
-### $7.00 / mo / ch (rounded down)
+### $7.00 / month / chapter (rounded down)
 ### $2,900 development fee
 
 ---
